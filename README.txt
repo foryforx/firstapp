@@ -7,6 +7,6 @@ To install local assets:
 To run the application:
 
 * run the following commands
- * `go install github.com/lss/webapp`
- * `src/webapp`
+ * `go install github.com/karuppaiah/firstapp`
+ * `firstapp`
 
